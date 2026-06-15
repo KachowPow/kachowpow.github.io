@@ -14,11 +14,11 @@
 <section class="max-w-4xl mx-auto my-16 px-6 grid grid-cols-1 md:grid-cols-3 gap-4">
   <div class="md:col-span-2 bg-slate-900 border border-slate-800 rounded-2xl p-6 hover:border-blue-500/50 transition-all">
     <h3 class="text-sm font-mono text-blue-400 mb-2">// CURRENTLY BUILDING</h3>
-    <p class="text-white text-lg font-semibold">deca-ai & dynamic web tools</p>
+    <p class="text-white text-lg font-semibold"></p>
   </div>
   
   <div class="bg-slate-900 border border-slate-800 rounded-2xl p-6">
     <h3 class="text-sm font-mono text-purple-400 mb-2">// LEARNING</h3>
-    <p class="text-white text-lg font-semibold">Quantitative models & Advanced JS</p>
+    <p class="text-white text-lg font-semibold"></p>
   </div>
 </section>
